@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Qard/bench-fn.git"
+    "url": "git+https://github.com/Qard/benchmark-fn.git"
   },
   "keywords": [
     "benchmark",
@@ -18,9 +18,9 @@
   "author": "Stephen Belanger <admin@stephenbelanger.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Qard/bench-fn/issues"
+    "url": "https://github.com/Qard/benchmark-fn/issues"
   },
-  "homepage": "https://github.com/Qard/bench-fn#readme",
+  "homepage": "https://github.com/Qard/benchmark-fn#readme",
   "dependencies": {
     "object-assign": "^4.1.1",
     "repeat-fn": "^1.0.1",
