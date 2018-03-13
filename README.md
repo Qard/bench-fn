@@ -1,9 +1,9 @@
-# bench-fn
+# benchmark-fn
 
 ## Install
 
 ```sh
-npm install bench-fn
+npm install benchmark-fn
 ```
 
 ## Usage

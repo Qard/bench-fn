@@ -1,5 +1,5 @@
 {
-  "name": "bench-fn",
+  "name": "benchmark-fn",
   "version": "1.0.0",
   "description": "Benchmark an async function",
   "main": "index.js",
