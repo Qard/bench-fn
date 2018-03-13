@@ -1,0 +1,32 @@
+{
+  "name": "bench-fn",
+  "version": "1.0.0",
+  "description": "Benchmark an async function",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qard/bench-fn.git"
+  },
+  "keywords": [
+    "benchmark",
+    "time",
+    "function"
+  ],
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qard/bench-fn/issues"
+  },
+  "homepage": "https://github.com/Qard/bench-fn#readme",
+  "dependencies": {
+    "object-assign": "^4.1.1",
+    "repeat-fn": "^1.0.1",
+    "time-fn": "^1.0.1"
+  },
+  "devDependencies": {
+    "tap": "^11.1.2"
+  }
+}
