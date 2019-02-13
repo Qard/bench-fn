@@ -27,6 +27,6 @@
     "time-fn": "^1.0.1"
   },
   "devDependencies": {
-    "tap": "^11.1.2"
+    "tap": "^12.5.2"
   }
 }
