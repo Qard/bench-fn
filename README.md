@@ -1,5 +1,7 @@
 # benchmark-fn
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/benchmark-fn.svg)](https://greenkeeper.io/)
+
 ## Install
 
 ```sh
